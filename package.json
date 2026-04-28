@@ -1,0 +1,11 @@
+{
+  "name": "api-lab",
+  "version": "1.0.0",
+  "description": "Minimal API testing web app with backend proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "license": "MIT"
+}
